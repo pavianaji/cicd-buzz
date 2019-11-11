@@ -4,5 +4,5 @@ script:
 
 deploy:
   provider: heroku
-  api_key: $HEROKU_API_KEY
-  app: $HEROKU_APP_NAME
+  api_key: f0da049b-c414-499d-8b14-c9396841458b
+  app: young-plains-76304
