@@ -6,3 +6,4 @@ deploy:
   provider: heroku
   api_key: f0da049b-c414-499d-8b14-c9396841458b
   app: young-plains-76304
+  skip_cleanup: false
